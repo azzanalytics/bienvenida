@@ -1,3 +1,2 @@
 #Bienvenida.
-Es una landing page para la vienbenida a una data base
-# bienvenida
+Es una landing page para la bienvenida a una data base.
