@@ -221,6 +221,27 @@ footer{
 .rrss-link:hover{
     background: #484848;
 }
+.cerrar-sesion{
+    display: inline-block;
+    border-radius: 4px;
+    background-color:  #9a6bab;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  
+  }
+  .cerrar-sesion span {
+      cursor: pointer;
+      display: inline-block;
+      position: relative;
+      transition: 0.5s;
+  }
 
 
 /*** MEDIA QUERIES ***/
